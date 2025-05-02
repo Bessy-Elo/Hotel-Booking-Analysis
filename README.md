@@ -110,4 +110,6 @@ Portugal (PRT) has the highest cancellation volume, followed by the UK (GBR) and
 - **Conditional Formatting**: Highlighted peak months and categories
 - **Filtering & Sorting**: Used to rank months, countries, and guest ty
 ## Room_Status 
-=
+=IF(T2=U2, "Matched", "Unmatched")
+## Guest_Type
+=IF(AND(J2=2,K2=0,L2=0), "two-adult", IF(AND(J2=1,K2=0,L2=0), "single", IF(AND(J2>0, OR(K2>0,L2>0)), "family", "adult")))
