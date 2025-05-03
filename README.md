@@ -1,4 +1,6 @@
-##  Hotel Booking Analysis 
+##  Hotel Booking Analysis
+
+![Image](https://github.com/user-attachments/assets/f6c52c4d-06ec-4e93-8400-2711aa27c7ff)
 
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 
